@@ -1,0 +1,24 @@
+h1.banner {
+	height: 80px;
+	color: yellow;
+	background-color: blue;
+	line-height: 80px;
+	text-align: center;
+}
+
+p.footer {
+	height: 30px;
+	color: yellow;
+	background-color: blue;
+	line-height: 30px;
+	text-align: center;
+}
+
+div.product {
+	border: 1px solid gray;
+	text-align: center;
+}
+
+div.prod_detail {
+	min-height: 500px;
+}
